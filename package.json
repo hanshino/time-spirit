@@ -1,0 +1,16 @@
+{
+  "name": "ms-script",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^12.0.0",
+    "serialport": "^12.0.0"
+  }
+}
